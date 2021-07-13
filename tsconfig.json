@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "commonjs",
+    "isolatedModules": false,
+    "declaration": true,
+    "outDir": "lib",
+    "declarationDir": "lib",
+    "strict": true,
+    "moduleResolution": "node",
+    "downlevelIteration": true
+  },
+  "include": ["src"]
+}
