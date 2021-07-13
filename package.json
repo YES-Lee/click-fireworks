@@ -1,12 +1,12 @@
 {
-  "name": "click-fire",
-  "version": "1.0.0",
+  "name": "click-fireworks",
+  "version": "1.0.1",
   "description": "A fireworks effect when click page",
   "main": "index.js",
   "scripts": {
     "prepublish": "npm run build",
     "start": "parcel index.html --out-dir .tmp",
-    "build": "rm -rf ./lib && parcel build src/index.ts --out-dir lib --out-file click-fire.min.js"
+    "build": "rm -rf ./lib && parcel build src/index.ts --out-dir lib --out-file click-fireworks.min.js"
   },
   "keywords": [
     "Fireworks",
@@ -15,6 +15,10 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "github",
+    "url": "git@github.com:YES-Lee/click-fireworks.git"
+  },
   "author": "Johnson <johnsonlee1126@163.com>",
   "license": "MIT",
   "devDependencies": {
