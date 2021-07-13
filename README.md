@@ -9,5 +9,5 @@
 or
 
 ```html
-https://unpkg.com/click-fireworks@1.0.1/lib/click-fireworks.min.js
+<script src="https://unpkg.com/click-fireworks@1.0.1/lib/click-fireworks.min.js"></script>
 ```
