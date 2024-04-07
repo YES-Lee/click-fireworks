@@ -24,6 +24,9 @@
     "url": "git@github.com:YES-Lee/click-fireworks.git"
   },
   "author": "Johnson <johnsonlee1126@163.com>",
+  "contributors": [
+    "AiCDAO <0x.aicdao@gmail.com>"
+  ],
   "license": "MIT",
   "devDependencies": {
     "@parcel/packager-ts": "2.11.0",
