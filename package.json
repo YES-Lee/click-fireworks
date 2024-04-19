@@ -1,6 +1,6 @@
 {
   "name": "click-fireworks",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A fireworks effect when click page",
   "main": "lib/click-fireworks.min.js",
   "module": "lib/click-fireworks.js",
@@ -33,5 +33,9 @@
     "@parcel/transformer-typescript-types": "2.11.0",
     "parcel": "^2.11.0",
     "typescript": ">=3.0.0"
+  },
+  "dependencies": {
+    "beautiful-vue-hooks": "^0.0.10",
+    "hello-tea-js": "^1.0.0"
   }
 }
